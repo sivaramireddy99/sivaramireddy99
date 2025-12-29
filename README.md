@@ -65,10 +65,10 @@ I am a motivated Data Analyst with strong skills in data cleaning, exploratory d
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *(https://www.linkedin.com/in/sivaramireddy338)*
-- 📧 Email: *(badamsivaramireddy@gmail.com)*
+## Let's Connect!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivaramireddy338/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=datacamp&logoColor=white)](https://sivaramireddy99.github.io/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badamsivaramireddy@gmail.com)
 
 ---
 
