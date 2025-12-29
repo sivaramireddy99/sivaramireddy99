@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Siva Rami Reddy
 
-🎯 **Data Analyst | Business Intelligence | SQL | Python | Power BI | Excel**
 
-I am a motivated Data Analyst with strong skills in data cleaning, exploratory data analysis (EDA), and dashboard creation. I enjoy working with data to uncover insights that support business and operational decision-making. I have hands-on experience analyzing datasets across healthcare and business domains and am continuously learning to improve my analytical and problem-solving skills.
+Welcome to my GitHub profile! I am a motivated Data Analyst with strong skills in data cleaning, exploratory data analysis (EDA), and dashboard creation. I enjoy working with data to uncover insights that support business and operational decision-making. I have hands-on experience analyzing datasets across healthcare and business domains and am continuously learning to improve my analytical and problem-solving skills.
 
 ---
 
